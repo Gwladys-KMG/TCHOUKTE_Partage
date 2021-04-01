@@ -1,0 +1,5 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Membre_Tontine		TAR	45	nouvelle taille enregistrement : 45
+Membre_Tontine	Prise	RUB+		Prise est une nouvelle rubrique
+Membre_Tontine	Date_Prise	RUB+		Date_Prise est une nouvelle rubrique
+Membre_Tontine	Montant_Prise	RUB+		Montant_Prise est une nouvelle rubrique

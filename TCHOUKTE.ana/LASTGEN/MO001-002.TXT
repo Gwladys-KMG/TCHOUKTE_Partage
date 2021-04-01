@@ -1,0 +1,10 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Contributions		NFI		nouveau fichier
+Fonds_Secours		NFI		nouveau fichier
+Membre_Contribution		NFI		nouveau fichier
+Contrainte_Membre_Fonds_Secours		NWL	Membre (IDMembre) et Fonds_Secours (IDMembre)	Nouvelle liaison entre les fichiers Membre (IDMembre) et Fonds_Secours (IDMembre)
+Contrainte_Contributions_Membre		NWL	Contributions (IDContributions) et Membre_Contribution (IDContributions)	Nouvelle liaison entre les fichiers Contributions (IDContributions) et Membre_Contribution (IDContributions)
+Contrainte_Membre_Contributions		NWL	Membre (IDMembre) et Membre_Contribution (IDMembre)	Nouvelle liaison entre les fichiers Membre (IDMembre) et Membre_Contribution (IDMembre)
+Contrainte_Tontine_Contributions		NWL	Tontine (IDTontine) et Contributions (IDTontine)	Nouvelle liaison entre les fichiers Tontine (IDTontine) et Contributions (IDTontine)
+Membre_Contribution		FRN		
+Contributions	Montant	RRN		

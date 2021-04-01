@@ -1,0 +1,11 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Prets		TAR	58	nouvelle taille enregistrement : 58
+Prets	Nom_Membre	RUB-		la rubrique Nom_Membre est supprimée
+Reboursement		TAR	46	nouvelle taille enregistrement : 46
+Reboursement	Nom_Membre	RUB-		la rubrique Nom_Membre est supprimée
+Bilan_Tontine		TAR	128	nouvelle taille enregistrement : 128
+Bilan_Tontine	Nom_Tontine	RUB-		la rubrique Nom_Tontine est supprimée
+Contributions		TAR	64	nouvelle taille enregistrement : 64
+Contributions	Membre	RUB-		la rubrique Membre est supprimée
+Fonds_Secours		TAR	275	nouvelle taille enregistrement : 275
+Fonds_Secours	Nom_Membre	RUB-		la rubrique Nom_Membre est supprimée

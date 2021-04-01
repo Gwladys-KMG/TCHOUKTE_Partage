@@ -1,0 +1,18 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Membre		NFI		nouveau fichier
+Tontine		NFI		nouveau fichier
+Epargne		NFI		nouveau fichier
+Prets		NFI		nouveau fichier
+Reboursement		NFI		nouveau fichier
+Bilan_Seance		NFI		nouveau fichier
+Bilan_Tontine		NFI		nouveau fichier
+Membre_Tontine		NFI		nouveau fichier
+Contrainte_Membre_Prets		NWL	Membre (IDMembre) et Prets (IDMembre)	Nouvelle liaison entre les fichiers Membre (IDMembre) et Prets (IDMembre)
+Contrainte_Reboursement_Membre		NWL	Membre (IDMembre) et Reboursement (IDMembre)	Nouvelle liaison entre les fichiers Membre (IDMembre) et Reboursement (IDMembre)
+Contrainte_Tontine_Membre		NWL	Tontine (IDTontine) et Membre_Tontine (IDTontine)	Nouvelle liaison entre les fichiers Tontine (IDTontine) et Membre_Tontine (IDTontine)
+Contrainte_Membre_Tontine		NWL	Membre (IDMembre) et Membre_Tontine (IDMembre)	Nouvelle liaison entre les fichiers Membre (IDMembre) et Membre_Tontine (IDMembre)
+Contrainte_Membre_Epargne		NWL	Membre (IDMembre) et Epargne (IDMembre)	Nouvelle liaison entre les fichiers Membre (IDMembre) et Epargne (IDMembre)
+Contrainte_Tontine_Bilan_Tontine		NWL	Tontine (IDTontine) et Bilan_Tontine (IDTontine)	Nouvelle liaison entre les fichiers Tontine (IDTontine) et Bilan_Tontine (IDTontine)
+Contrainte_Membre_Bilan_Seance		NWL	Membre (IDMembre) et Bilan_Seance (IDMembre)	Nouvelle liaison entre les fichiers Membre (IDMembre) et Bilan_Seance (IDMembre)
+Membre_Tontine		FRN		
+Reboursement	Observations	RRN		

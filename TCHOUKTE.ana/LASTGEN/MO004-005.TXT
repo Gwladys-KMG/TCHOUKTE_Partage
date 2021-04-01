@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Decaissement		NFI		nouveau fichier
+Contrainte_Decaissement_Membre		NWL	Membre (IDMembre) et Decaissement (IDMembre)	Nouvelle liaison entre les fichiers Membre (IDMembre) et Decaissement (IDMembre)
