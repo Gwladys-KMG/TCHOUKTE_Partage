@@ -1,0 +1,2 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Tontine	Montant_Tontine	NNR	Montant	ATTENTION : la rubrique Montant a pour nouveau nom Montant_Tontine

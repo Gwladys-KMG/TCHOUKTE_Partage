@@ -1,0 +1,4 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Tontine	Categorie	RUB+		Categorie est une nouvelle rubrique
+Tontine	Categorie	RUB-		la rubrique Categorie est supprimée
+Tontine	Categorie	RRN		

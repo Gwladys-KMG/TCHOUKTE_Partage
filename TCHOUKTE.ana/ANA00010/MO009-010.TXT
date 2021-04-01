@@ -1,0 +1,10 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Tontine	Type	RUB+		Type est une nouvelle rubrique
+Tontine	Devise	RUB+		Devise est une nouvelle rubrique
+Tontine	Categorie	RUB+		Categorie est une nouvelle rubrique
+Tontine	Type	RUB-		la rubrique Type est supprimée
+Tontine	Devise	RUB-		la rubrique Devise est supprimée
+Tontine	Categorie	RUB-		la rubrique Categorie est supprimée
+Tontine	Type	RRN		
+Tontine	Devise	RRN		
+Tontine	Categorie	RRN		
