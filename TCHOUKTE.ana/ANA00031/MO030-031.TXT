@@ -1,0 +1,5 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Membre		TAR	558	nouvelle taille enregistrement : 558
+Membre	Profession	RUB+		Profession est une nouvelle rubrique
+Membre	Télephone	CNW	Entier sur 8 octets$Entier sur 4 octets	la rubrique Télephone a pour nouveau type Entier sur 8 octets
+Membre	Contactpersonne	CNW	Entier sur 8 octets$Entier sur 4 octets	la rubrique Contactpersonne a pour nouveau type Entier sur 8 octets

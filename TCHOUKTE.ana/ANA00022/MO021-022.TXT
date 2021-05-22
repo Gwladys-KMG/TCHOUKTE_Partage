@@ -1,0 +1,5 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Tontine		TAR	107	nouvelle taille enregistrement : 107
+Tontine	Predominance	RUB+		Predominance est une nouvelle rubrique
+Tontine	Categorie	RRM		
+Tontine	Predominance	RRN		

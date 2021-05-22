@@ -1,0 +1,3 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+Tontine		TAR	95	nouvelle taille enregistrement : 95
+Tontine	Date_Fin	RUB-		la rubrique Date_Fin est supprimée

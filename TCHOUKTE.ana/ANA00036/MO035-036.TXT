@@ -1,0 +1,5 @@
+//MO035-036.TXT ANA00035 TO ANA00036
+Tontine		TAR	104	nouvelle taille enregistrement : 104
+Tontine	Periodicité	NNR	Nombre_Echeance	ATTENTION : la rubrique Nombre_Echeance a pour nouveau nom Periodicité
+Tontine	Periodicité	CNW	Entier non signé sur 1 octet$Entier sur 4 octets	la rubrique Periodicité a pour nouveau type Entier non signé sur 1 octet
+Tontine	Periodicité	RRN		

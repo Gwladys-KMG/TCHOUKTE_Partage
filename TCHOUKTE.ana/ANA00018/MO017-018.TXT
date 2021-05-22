@@ -1,0 +1,12 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Membre		TAR	499	nouvelle taille enregistrement : 499
+Membre	PaysOrigine	RUB+		PaysOrigine est une nouvelle rubrique
+Membre	RegionOrigine	RUB+		RegionOrigine est une nouvelle rubrique
+Membre	PaysResidence	RUB+		PaysResidence est une nouvelle rubrique
+Membre	VilledeResidence	RUB+		VilledeResidence est une nouvelle rubrique
+Membre	QuartierdeResidence	RUB+		QuartierdeResidence est une nouvelle rubrique
+Membre	CNIPassport	RUB+		CNIPassport est une nouvelle rubrique
+Membre	Date_Adhesion	RUB+		Date_Adhesion est une nouvelle rubrique
+Membre	Qualité	RUB+		Qualité est une nouvelle rubrique
+Membre	Personnecontact	RUB+		Personnecontact est une nouvelle rubrique
+Membre	Contactpersonne	RUB+		Contactpersonne est une nouvelle rubrique

@@ -1,0 +1,17 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Membre		FCNX+	Connexion HFSQL Classic	
+Tontine		FCNX+	Connexion HFSQL Classic	
+Epargne		FCNX+	Connexion HFSQL Classic	
+Prets		FCNX+	Connexion HFSQL Classic	
+Reboursement		FCNX+	Connexion HFSQL Classic	
+Bilan_Seance		FCNX+	Connexion HFSQL Classic	
+Bilan_Tontine		FCNX+	Connexion HFSQL Classic	
+Membre_Tontine		TAR	148	nouvelle taille enregistrement : 148
+Membre_Tontine		FCNX+	Connexion HFSQL Classic	
+Membre_Tontine	Nom	RUB+		Nom est une nouvelle rubrique
+Membre_Tontine	Prenom	RUB+		Prenom est une nouvelle rubrique
+Contributions		FCNX+	Connexion HFSQL Classic	
+Fonds_Secours		FCNX+	Connexion HFSQL Classic	
+Membre_Contribution		FCNX+	Connexion HFSQL Classic	
+Decaissement		FCNX+	Connexion HFSQL Classic	
+Connexion HFSQL Classic		CNX+		

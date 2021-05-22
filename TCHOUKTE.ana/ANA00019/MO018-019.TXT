@@ -1,0 +1,7 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Membre	PaysOrigine	RUB+		PaysOrigine est une nouvelle rubrique
+Membre	PaysResidence	RUB+		PaysResidence est une nouvelle rubrique
+Membre	Qualité	RUB+		Qualité est une nouvelle rubrique
+Membre	PaysOrigine	RUB-		la rubrique PaysOrigine est supprimée
+Membre	PaysResidence	RUB-		la rubrique PaysResidence est supprimée
+Membre	Qualité	RUB-		la rubrique Qualité est supprimée

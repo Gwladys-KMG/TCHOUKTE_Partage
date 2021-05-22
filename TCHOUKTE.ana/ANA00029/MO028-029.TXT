@@ -1,0 +1,3 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+Presence		NFI		nouveau fichier
+Contrainte_Membre_Presence		NWL	Membre (IDMembre) et Presence (IDMembre)	Nouvelle liaison entre les fichiers Membre (IDMembre) et Presence (IDMembre)

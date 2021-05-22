@@ -1,0 +1,9 @@
+//MO026-027.TXT ANA00026 TO ANA00027
+Membre_Tontine		TAR	186	nouvelle taille enregistrement : 186
+Membre_Tontine	IDMembre_Tontine	RUB+		IDMembre_Tontine est une nouvelle rubrique
+Membre_Tontine	Nom_Tontine	RUB+		Nom_Tontine est une nouvelle rubrique
+Membre_Tontine	IDMembre	RUB-		la clé IDMembre est supprimée
+Membre_Tontine	IDTontine	RUB-		la clé IDTontine est supprimée
+Membre_Tontine	IDTontine_IDMembre	RUB-		la clé IDTontine_IDMembre est supprimée
+Contrainte_Tontine_Membre		DEL	Tontine (IDTontine) et Membre_Tontine (IDTontine)	Liaison supprimée entre les fichiers Tontine (IDTontine) et Membre_Tontine (IDTontine)
+Contrainte_Membre_Tontine		DEL	Membre (IDMembre) et Membre_Tontine (IDMembre)	Liaison supprimée entre les fichiers Membre (IDMembre) et Membre_Tontine (IDMembre)

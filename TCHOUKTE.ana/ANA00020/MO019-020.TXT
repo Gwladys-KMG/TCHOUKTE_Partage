@@ -1,0 +1,4 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Membre	PaysOrigine	RRN		
+Membre	PaysResidence	RRN		
+Membre	Qualité	RRN		

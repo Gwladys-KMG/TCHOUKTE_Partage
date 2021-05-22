@@ -1,0 +1,4 @@
+//MO034-035.TXT ANA00034 TO ANA00035
+Membre		TAR	644	nouvelle taille enregistrement : 644
+Membre	Télephone	CNW	Chaîne$Entier sur 8 octets	la rubrique Télephone a pour nouveau type Chaîne
+Membre	Contactpersonne	CNW	Chaîne$Entier sur 8 octets	la rubrique Contactpersonne a pour nouveau type Chaîne

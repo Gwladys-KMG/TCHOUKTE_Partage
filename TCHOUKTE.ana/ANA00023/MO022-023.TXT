@@ -1,0 +1,2 @@
+//MO022-023.TXT ANA00022 TO ANA00023
+Contrainte_Tontine_Membre		MCL	1,n->0,n	
